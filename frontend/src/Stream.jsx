@@ -1,0 +1,1 @@
+export default function Stream() { return <img src="/video_feed" />; }
